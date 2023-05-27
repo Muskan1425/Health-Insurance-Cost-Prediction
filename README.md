@@ -46,6 +46,9 @@ Health insurance plays a vital role in protecting individuals, families, and org
 
 **Project Report (PDF)**: The project report contains a detailed description of the project, including the dataset, methodology, model implementation, and evaluation. It serves as a comprehensive documentation resource for the project.
 
+# Results
+Model gave 86% accuracy for Medical Insurance Amount Prediction using Random Forest Regressor
+
 # License
 The project is released under the MIT License. Feel free to use, modify, and distribute the code and resources provided in this repository.
 
