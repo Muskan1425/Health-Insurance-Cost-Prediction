@@ -50,6 +50,6 @@ Health insurance plays a vital role in protecting individuals, families, and org
 The project is released under the MIT License. Feel free to use, modify, and distribute the code and resources provided in this repository.
 
 # Acknowledgements
-We would like to express our gratitude to the contributors and researchers who have provided valuable insights and resources related to health insurance cost prediction. Their contributions have greatly influenced this project and its outcomes.
+We would like to express our gratitude to the contributors and researchers specially SahilChachra who have provided valuable insights and resources related to health insurance cost prediction. Their contributions have greatly influenced this project and its outcomes.
 
 If you have any questions, suggestions, or feedback, please feel free to contact us. We appreciate your interest in this project and hope it proves to be a valuable resource for your own research and endeavors.
