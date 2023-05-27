@@ -11,7 +11,7 @@ Health insurance plays a vital role in protecting individuals, families, and org
 
 # The project includes the following components:
 
-** Features**
+**Features**
  
 1. Exploring the dataset
 2. Converting Categorical values to Numerical
